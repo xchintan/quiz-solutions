@@ -9,13 +9,8 @@
         see: array_rotation_HOWTO.txt 
 
  */
-#include <math.h>
 #include <stdio.h>
-#include <string.h>
 #include <stdlib.h>
-#include <assert.h>
-#include <limits.h>
-#include <stdbool.h>
 
 #define LEFT_SHFIT 0
 #define RIGHT_SHIFT 1
